@@ -1,7 +1,7 @@
 # Site
 title: EPYL Ministry
 description: EPYL 
-url: https://taylantatli.github.io/Halve
+url: https://epylministry.github.io
 logo: halve.png                                       # Site logo
 locale: es_PE
 
@@ -31,13 +31,13 @@ sass:
 # Social Links
 #email:             email
 #google.plus:        username
-twitter:            username
-#facebook:           username
-github:             username
-stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
+#twitter:            username
+facebook:           ministerioepyl
+#github:             username
+#stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
-#instagram:          username
+instagram:          epyl_venid
 #lastfm:            username
 #tumblr:            username
 #pinterest:         username
@@ -52,7 +52,7 @@ stackoverflow:     123456/username   from a "http://stackoverflow.com/users/1234
 #keybase:           username
 #xmpp:              username@server.com
 #hackernews:        username
-behance:           username
+#behance:           username
 
 # Gems
 gems:
