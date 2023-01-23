@@ -1,6 +1,6 @@
 # Site
 title: EPYL
-description: EPYL 
+description: La página web del Ministerio EPYL es la mejor manera de conectarse con nuestra misión de capacitar a pastores y líderes de zonas rurales en Perú. Encuentra información detallada sobre cursos, programas, recursos y noticias actuales, y participa en nuestra labor mediante donaciones, oraciones y ofreciendo tu tiempo como voluntario. 
 url: https://epylministry.github.io
 logo: halve.png                                       # Site logo
 locale: es_PE
@@ -32,7 +32,7 @@ sass:
 #email:             email
 #google.plus:        username
 #twitter:            username
-facebook:           ministerioepyl
+facebook:           ministrerioepyl
 #github:             username
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
